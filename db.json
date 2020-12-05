@@ -1,0 +1,74 @@
+{
+  "users": {
+      "example_firebaseuserid_10149123098": {
+          "email": "obama.mail@yahoo.com",
+          "facebook_token": "",
+          "google_token": "",
+          "user_id": "10149123098",
+          "first_name": "Barrack",
+          "last_name": "Obama",
+          "dob": "10-30-2000",
+          "date_created": "10-21-2020",
+          "password": "bobbyjoe111",
+          "stripe_customer_id": "cus_IACqeMm0NGa2Pr",
+          "ip_address": "108.10.90.200",
+          "session_logs": [
+              "Chemistry reading-10149123098",
+              "The_adventures_of_huckleberry_fin-10149123098"
+          ],
+          "saved_text_ids": [
+              "huckleberry_fin.pdf-10149123098"
+          ],
+          "has_active_referral": true,
+          "referral_id": "1Q2W3e",
+          "membership-information": {
+              "plan": "free",
+              "renew": false,
+              "plan-start-date": "10-13-2020",
+              "plan-end-date": "11-13-2020"
+          }
+      }
+  },
+  "session_logs": {
+      "Chemistry reading-10149123098": {
+          "names": "Chemistry reading",
+          "chat_logs": [
+              {
+                  "sender": "user",
+                  "text": "What was the main character's name?"
+              },
+              {
+                  "sender": "ai",
+                  "text": "Bobby Shmurda"
+              }
+          ],
+          "has_associated_text": true,
+          "associated_text": "huckleberry_fin.pdf-10149123098",
+          "last_data_access": "11-25-2020"
+      }
+  },
+  "saved_texts": {
+      "huckleberry_fin.pdf-10149123098":  {
+          "text": "This is the beginning of the novel blah blah blah blah blah blah blah blah",
+          "last_data_access": "11-25-2020"
+      }
+  },
+  "referrals": {
+      "1Q2W3e": {
+          "date_created": "11/31/2020",
+          "linked_account": "10149123098",
+          "referred_accounts": [
+              "140123098313",
+              "140123098312"
+          ],
+          "referral-count": 2
+      }
+  },
+  "admins": {
+      "10149123098": true
+  },
+  "meta_constants": {
+      "max_num_logs": 50,
+      "max_num_texts": 20
+  }
+}
