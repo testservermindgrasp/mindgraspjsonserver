@@ -52,23 +52,5 @@
           "text": "This is the beginning of the novel blah blah blah blah blah blah blah blah",
           "last_data_access": "11-25-2020"
       }
-  },
-  "referrals": {
-      "1Q2W3e": {
-          "date_created": "11/31/2020",
-          "linked_account": "10149123098",
-          "referred_accounts": [
-              "140123098313",
-              "140123098312"
-          ],
-          "referral-count": 2
-      }
-  },
-  "admins": {
-      "10149123098": true
-  },
-  "meta_constants": {
-      "max_num_logs": 50,
-      "max_num_texts": 20
   }
 }
